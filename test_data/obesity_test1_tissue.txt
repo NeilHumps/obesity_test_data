@@ -1,0 +1,55 @@
+tissue-name	tissue-descriptor
+adipose subcutaneous	adipose;subcutaneous
+adipose visceral (omentum)	visceral (omentum);adipose
+adrenal gland	adrenal gland
+artery aorta	aorta;artery
+artery coronary	artery;coronary
+artery tibial	artery;tibial
+brain amygdala	amygdala;brain
+brain anterior cingulate cortex (ba24)	anterior cingulate cortex (ba24);brain
+brain caudate (basal ganglia)	caudate (basal ganglia);brain
+brain cerebellar hemisphere	brain;cerebellar hemisphere
+brain cerebellum	brain;cerebellum
+brain cortex	cortex;brain
+brain frontal cortex (ba9)	frontal cortex (ba9);brain
+brain hippocampus	hippocampus;brain
+brain hypothalamus	hypothalamus;brain
+brain nucleus accumbens (basal ganglia)	brain;nucleus accumbens (basal ganglia)
+brain putamen (basal ganglia)	putamen (basal ganglia);brain
+brain spinal cord (cervical c-1)	spinal cord (cervical c-1);brain
+brain substantia nigra	brain;substantia nigra
+breast mammary tissue	mammary tissue;breast
+cells ebv-transformed lymphocytes	cells;ebv-transformed lymphocytes
+cervix ectocervix	cervix;ectocervix
+cervix endocervix	cervix;endocervix
+colon sigmoid	sigmoid;colon
+colon transverse	transverse;colon
+esophagus gastroesophageal junction	gastroesophageal junction;esophagus
+esophagus mucosa	esophagus;mucosa
+esophagus muscularis	esophagus;muscularis
+fallopian tube	fallopian tube
+heart atrial appendage	heart;atrial appendage
+heart left ventricle	heart;left ventricle
+kidney cortex	cortex;kidney
+liver	liver
+lung	lung
+minor salivary gland	minor salivary gland
+muscle skeletal	skeletal;muscle
+nerve tibial	nerve;tibial
+ovary	ovary
+pancreas	pancreas
+pituitary	pituitary
+prostate	prostate
+skin not sun exposed (suprapubic)	not sun exposed (suprapubic);skin
+skin sun exposed (lower leg)	sun exposed (lower leg);skin
+small intestine terminal ileum	small intestine;terminal ileum
+spleen	spleen
+stomach	stomach
+testis	testis
+thyroid	thyroid
+uterus	uterus
+vagina	vagina
+whole blood	whole blood
+bladder	bladder
+cells cultured fibroblasts	cells;cultured fibroblasts
+kidney medulla	medulla;kidney
