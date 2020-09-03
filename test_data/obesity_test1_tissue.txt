@@ -1,4 +1,4 @@
-tissue-name	tissue-descriptor
+tissueName	tissueDescriptor
 adipose subcutaneous	adipose;subcutaneous
 adipose visceral (omentum)	visceral (omentum);adipose
 adrenal gland	adrenal gland
